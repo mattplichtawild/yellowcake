@@ -1,9 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Hi, I'm Matt.
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'todo: Create subtitle that cycles through "I am a dreamer. I am a developer. I am a creator."'
+title: 'Hi, I''m Matt.'
+featuredImage: 'https://ucarecdn.com/86367d24-f687-4039-9560-e616184af906/'
+subtitle: >-
+  todo: Create subtitle that cycles through "I am a dreamer. I am a developer. I
+  am a creator."
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
